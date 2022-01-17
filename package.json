@@ -26,13 +26,13 @@
   "license": "MIT",
   "dependencies": {
     "node-addon-api": "^4.0.0",
-    "node-gyp-build": "^4.2.3"
+    "node-gyp-build": "^4.3.0"
   },
   "gypfile": true,
   "devDependencies": {
     "fs-extra": "^10.0.0",
     "jest": "^27.0.6",
-    "prebuildify": "^4.2.0"
+    "prebuildify": "^4.2.1"
   },
   "scripts": {
     "test": "jest",
